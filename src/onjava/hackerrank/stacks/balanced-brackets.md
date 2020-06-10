@@ -18,3 +18,9 @@ By this logic, we say a sequence of brackets is balanced if the following condit
 * The subset of brackets enclosed within the confines of a matched pair of brackets is also a matched pair of brackets.
 
 Given  strings of brackets, determine whether each sequence of brackets is balanced. If a string is balanced, return **YES**. Otherwise, return **NO**.
+
+Strategy:
+ - for a non-empty String, use a regular expression to pull out occurrences of `[]`, `{}`, `()` (inside or outside nested expressions)
+ - if the String remains unchanged, return **NO**
+ - repeat (if empty return **YES**)
+ 

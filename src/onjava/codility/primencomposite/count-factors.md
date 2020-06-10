@@ -17,3 +17,10 @@ Write a function:
 that, given a positive integer N, returns the number of its factors.
 
 For example, given N = 24, the function should return 8, because 24 has 8 factors, namely 1, 2, 3, 4, 6, 8, 12, 24. There are no other factors of 24.
+
+Strategy:
+ - any given number factor below square root will have a counterpart greater than its square root: 
+   - `factor x * factor y = square root * square root`
+ - consider square root once as a factor if it is an integer;
+ - thus, evaluate each integer up to square root as above;
+ 

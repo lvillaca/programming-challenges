@@ -6,3 +6,4 @@ Java implementations of solutions are included for the following Codility Sectio
 
 * [Arrays](arrays/README.md)
 * [Prime and Composite Numbers](primencomposite/README.md)
+* [Stacks And Queues](stacksnqs/README.md)

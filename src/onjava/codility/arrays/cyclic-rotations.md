@@ -25,3 +25,7 @@ For example, given
     A = [3, 8, 9, 7, 6]
     K = 3
 the function should return `[9, 7, 6, 3, 8]`
+
+Strategy:
+ - for each element, find its new index - current index + rotations;
+ - if new index above exceeds array length, check where element would land within array with division remainder operator (%)

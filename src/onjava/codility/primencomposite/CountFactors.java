@@ -17,7 +17,6 @@ public class CountFactors {
         int count=0;
         for (int n=1;n<=Math.sqrt(N);n++) {
             if (N%n == 0) count+=2;
-            // count all factors twice, 1 below square root and one above it
             if (n==Math.sqrt(N)) count--;
         }
 
