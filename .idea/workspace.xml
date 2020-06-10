@@ -2,33 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57968ede-c56b-4f1a-88d0-51ee6b898de5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/codility/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/codility/arrays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/arrays/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/codility/arrays/cyclic-rotations.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/codility/primencomposite/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/codility/primencomposite/count-factors.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/codility/stacksnqs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/codility/stacksnqs/layout.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/stacksnqs/layout.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/codility/stacksnqs/stonewall.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/hackerrank/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/hackerrank/stacks/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onjava/hackerrank/stacks/balanced-brackets.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/arrays/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/arrays/cyclic-rotations.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/primencomposite/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/primencomposite/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/primencomposite/count-factors.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/stacksnqs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/stacksnqs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/stacksnqs/layout.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/stacksnqs/stonewall.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/hackerrank/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/hackerrank/implementations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/implementations/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/hackerrank/implementations/extra-long-factorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/implementations/extra-long-factorial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/hackerrank/implementations/picking-numbers.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/implementations/picking-numbers.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/hackerrank/stacks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/stacks/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/onscala/hackerrank/stacks/balanced-brackets.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/stacks/balanced-brackets.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/codility/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/codility/arrays/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/arrays/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/codility/primencomposite/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/primencomposite/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/hackerrank/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/hackerrank/implementations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/implementations/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/hackerrank/stacks/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/hackerrank/stacks/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/docs/codility/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="136">
-                <caret line="8" column="31" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="31" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/docs/hackerrank/stacks/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="202" selection-start-line="2" selection-start-column="202" selection-end-line="2" selection-end-column="202" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -68,8 +47,32 @@
         <entry file="file://$PROJECT_DIR$/docs/hackerrank/implementations/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/hackerrank/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/codility/arrays/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,7 +115,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -124,36 +127,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cyclic-rotations.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="32">
-                <caret line="2" column="161" selection-start-line="2" selection-start-column="161" selection-end-line="2" selection-end-column="161" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="count-factors.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="174" lean-forward="true" selection-start-line="2" selection-start-column="174" selection-end-line="2" selection-end-column="174" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stonewall.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="155" selection-start-line="2" selection-start-column="155" selection-end-line="2" selection-end-column="155" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -188,11 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Scala/HackerRank/BalancedBrackets.scala" />
-        <option value="$PROJECT_DIR$/src/Java/Codility/CyclicRotations.java" />
-        <option value="$PROJECT_DIR$/src/java/codility/CyclicRotations.java" />
-        <option value="$PROJECT_DIR$/src/onjava/codility/CyclicRotations.java" />
-        <option value="$PROJECT_DIR$/src/scala/hackerrank/Factorial.scala" />
         <option value="$PROJECT_DIR$/src/scala/hackerrank/PickingNumbers.scala" />
         <option value="$PROJECT_DIR$/src/scala/hackerrank/BalancedBrackets.scala" />
         <option value="$PROJECT_DIR$/src/scala/hackerrank/ExtraLongFactorial.scala" />
@@ -234,11 +208,16 @@
         <option value="$PROJECT_DIR$/src/onjava/codility/stacksnqs/StoneWall.java" />
         <option value="$PROJECT_DIR$/src/onscala/codility/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/docs/codility/arrays/README.md" />
         <option value="$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md" />
         <option value="$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md" />
         <option value="$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md" />
         <option value="$PROJECT_DIR$/docs/hackerrank/stacks/balanced-brackets.md" />
+        <option value="$PROJECT_DIR$/docs/codility/README.md" />
+        <option value="$PROJECT_DIR$/docs/hackerrank/README.md" />
+        <option value="$PROJECT_DIR$/docs/hackerrank/stacks/README.md" />
+        <option value="$PROJECT_DIR$/docs/hackerrank/implementations/README.md" />
+        <option value="$PROJECT_DIR$/docs/codility/primencomposite/README.md" />
+        <option value="$PROJECT_DIR$/docs/codility/arrays/README.md" />
       </list>
     </option>
   </component>
@@ -276,7 +255,35 @@
               <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+              <item name="primencomposite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="implementations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="stacks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
@@ -600,7 +607,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1152" height="697" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -833,71 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/arrays/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/hackerrank/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="102">
-            <caret line="6" column="17" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="136">
-            <caret line="8" column="31" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/hackerrank/stacks/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="202" selection-start-line="2" selection-start-column="202" selection-end-line="2" selection-end-column="202" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/hackerrank/implementations/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -963,6 +904,71 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="238">
             <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/hackerrank/stacks/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/hackerrank/implementations/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/hackerrank/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/arrays/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
