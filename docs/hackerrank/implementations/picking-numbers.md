@@ -1,6 +1,6 @@
 # Picking Numbers
 
-The Scala source code [here](PickingNumbers.scala) presents the solution for [this](https://www.hackerrank.com/challenges/balanced-brackets/problem) challenge.
+The Scala source code [here](../../../src/onscala/hackerrank/implementations/PickingNumbers.scala) presents the solution for [this](https://www.hackerrank.com/challenges/balanced-brackets/problem) challenge.
 
 
 Requirements Description:

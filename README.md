@@ -4,8 +4,8 @@ This repository includes my approach to programming challenges from several site
  
 Implementations are included for the following Sites:
 
-* [Codility](https://app.codility.com/programmers/) - follow the links for [Java](src/onjava/codility) and [Scala](src/onscala/codility) 
-* [HackerRank](https://www.hackerrank.com/dashboard) - follow the links for [Java](src/onjava/hackerrank) and [Scala](src/onscala/hackerrank)
+* [Codility](https://app.codility.com/programmers/) - follow [this link](docs/codility/README.md)
+* [HackerRank](https://www.hackerrank.com/dashboard) - follow [this link](docs/hackerrank/README.md)
 
 The following libraries were used for the execution and unit test of the provided solutions
 

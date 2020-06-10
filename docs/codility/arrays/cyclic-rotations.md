@@ -1,6 +1,6 @@
-# Cyclic Rotations
+# Cyclic Rotations: Arrays
 
-The Java source code [here](CyclicRotations.java) presents the solution for [this](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) challenge.
+The [Scala](../../../src/onscala/codility/arrays/CyclicRotations.scala) and [Java](../../../src/onjava/codility/arrays/CyclicRotations.java) source codes present the solution for [this](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) challenge.
 
 
 
@@ -16,7 +16,7 @@ The goal is to rotate array A K times; that is, each element of A will be shifte
 
 Write a function:
 
-`class Solution { public int[] solution(int[] A, int K); }`
+`object Solution { def solution(a: Array[Int], k: Int): Array[Int] }`
 
 that, given an array A consisting of N integers and an integer K, returns the array A rotated K times.
 

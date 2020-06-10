@@ -1,6 +1,6 @@
 # Count Factors
 
-The Java source code [here](CountFactors.java) presents the solution for [this](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) challenge.
+The [Scala](../../../src/onscala/codility/primencomposite/CountFactors.scala) and [Java](../../../src/onjava/codility/primencomposite/CountFactors.scala) source codes present the solution for [this](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/) challenge.
 
 
 
@@ -12,7 +12,7 @@ For example, 6 is a factor of 24, because M = 4 satisfies the above condition `(
 
 Write a function:
 
-`class Solution { public int solution(int N); }`
+`object Solution { def solution(n: Int): Int }`
 
 that, given a positive integer N, returns the number of its factors.
 

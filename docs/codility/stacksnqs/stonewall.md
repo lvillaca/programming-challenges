@@ -1,6 +1,6 @@
 # StoneWall
 
-The Java source code [here](StoneWall.java) presents the solution for [this](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) challenge.
+The [Scala](../../../src/onscala/codility/stacksnqs/StoneWall.scala) and [Java](../../../src/onjava/codility/stacksnqs/StoneWall.java) source codes present the solution for [this](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) challenge.
 
 
 

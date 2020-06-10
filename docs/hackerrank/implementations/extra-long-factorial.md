@@ -1,6 +1,6 @@
 # Extra Long Factorial
 
-The Scala source code [here](ExtraLongFactorial.scala) presents the solution for [this](https://www.hackerrank.com/challenges/extra-long-factorials/problem?h_r=internal-search) challenge.
+The Scala source code [here](../../../src/onscala/hackerrank/implementations/ExtraLongFactorial.scala) presents the solution for [this](https://www.hackerrank.com/challenges/extra-long-factorials/problem?h_r=internal-search) challenge.
 
 
 Requirements Description:

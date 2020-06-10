@@ -1,6 +1,6 @@
 # Balanced Brackets
 
-The Scala source code [here](BalancedBrackets.scala) presents the solution for [this](https://www.hackerrank.com/challenges/balanced-brackets/problem) challenge.
+The [Scala](../../../src/onscala/hackerrank/stacks/BalancedBrackets.scala) and [Java](../../../src/onjava/hackerrank/stacks/BalancedBrackets.java) source codes present the solution for [this](https://www.hackerrank.com/challenges/balanced-brackets/problem) challenge.
 
 
 Requirements Description:
