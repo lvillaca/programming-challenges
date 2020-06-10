@@ -6,3 +6,4 @@ Scala implementations of solutions are included for the following Codility Secti
 
 * [Arrays](arrays/README.md)
 * [Prime and Composite Numbers](primencomposite/README.md)
+* [Stacks And Queues](stacksnqs/README.md)
