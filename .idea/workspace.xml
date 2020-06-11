@@ -36,15 +36,15 @@
         <entry file="file://$PROJECT_DIR$/docs/codility/iterations/binary-gap.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
-                <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryGap.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BinaryGap.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/onscala/codility/iterations/BinaryGap.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -53,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryGap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryGap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onjava/codility/iterations/BinaryGap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
@@ -203,9 +203,9 @@
         <option value="$PROJECT_DIR$/docs/codility/iterations/README.md" />
         <option value="$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md" />
         <option value="$PROJECT_DIR$/src/onscala/codility/iterations/Iterations.scala" />
-        <option value="$PROJECT_DIR$/docs/codility/iterations/binary-gap.md" />
         <option value="$PROJECT_DIR$/src/onscala/codility/iterations/BinaryGap.scala" />
         <option value="$PROJECT_DIR$/src/onjava/codility/iterations/BinaryGap.java" />
+        <option value="$PROJECT_DIR$/docs/codility/iterations/binary-gap.md" />
       </list>
     </option>
   </component>
@@ -579,9 +579,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinaryGap_(1) - 2020.06.11 at 10h 10m 52s.xml">
-      <configuration name="BinaryGap (1)" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="BinaryGap_(1) - 2020.06.11 at 10h 11m 18s.xml">
       <configuration name="BinaryGap (1)" configurationId="TestNG" />
     </history-entry>
@@ -609,9 +606,13 @@
     <history-entry file="BinaryGap_(1) - 2020.06.11 at 10h 31m 56s.xml">
       <configuration name="BinaryGap (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="BinaryGap - 2020.06.11 at 10h 40m 43s.xml">
+      <configuration name="BinaryGap" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -909,16 +910,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/iterations/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -967,11 +958,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/onjava/codility/iterations/BinaryGap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/iterations/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/codility/iterations/binary-gap.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <first_editor relative-caret-position="51">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -981,16 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/iterations/BinaryGap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

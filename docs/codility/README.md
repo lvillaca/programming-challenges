@@ -7,4 +7,4 @@ Java and Scala implementations of solutions are included for the following Codil
 * [Arrays](arrays/README.md)
 * [Prime and Composite Numbers](primencomposite/README.md)
 * [Stacks And Queues](stacksnqs/README.md)
-* [Stacks And Queues](stacksnqs/README.md)
+* [Iterations](iterations/README.md)
