@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57968ede-c56b-4f1a-88d0-51ee6b898de5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,26 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="EquiLeader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EquiLeader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1748">
-              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+              <caret line="108" selection-start-line="108" selection-end-line="108" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/codility/iterations/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -104,6 +92,18 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="81">
                 <caret line="5" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="100">
+                <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
               </first_editor>
               <second_editor />
             </state>
@@ -207,7 +207,6 @@
         <option value="$PROJECT_DIR$/src/onscala/codility/iterations/BinaryGap.scala" />
         <option value="$PROJECT_DIR$/src/onjava/codility/iterations/BinaryGap.java" />
         <option value="$PROJECT_DIR$/docs/codility/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/docs/codility/leader/README.md" />
         <option value="$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java" />
         <option value="$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md" />
@@ -216,6 +215,7 @@
         <option value="$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md" />
         <option value="$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md" />
         <option value="$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -241,48 +241,6 @@
               <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="onjava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="onjava" type="462c0819:PsiDirectoryNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="onjava" type="462c0819:PsiDirectoryNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-              <item name="leader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="onscala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="onscala" type="462c0819:PsiDirectoryNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="onscala" type="462c0819:PsiDirectoryNode" />
-              <item name="codility" type="462c0819:PsiDirectoryNode" />
-              <item name="leader" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -886,16 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-44">
-            <caret line="4" column="76" selection-start-line="4" selection-start-column="76" selection-end-line="4" selection-end-column="76" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/codility/leader/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1020,10 +968,20 @@
     <entry file="file://$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1748">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
