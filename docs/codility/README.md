@@ -8,3 +8,4 @@ Java and Scala implementations of solutions are included for the following Codil
 * [Prime and Composite Numbers](primencomposite/README.md)
 * [Stacks And Queues](stacksnqs/README.md)
 * [Iterations](iterations/README.md)
+* [Leader](leader/README.md)

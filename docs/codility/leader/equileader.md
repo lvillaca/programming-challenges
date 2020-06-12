@@ -1,6 +1,6 @@
 # Binary Gap: Arrays
 
-The [Scala](../../../src/onscala/codility/iterations/BinaryGap.scala) and [Java](../../../src/onjava/codility/leader/EquiLeader.java) source codes present the solution for [this](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) challenge.
+The [Scala](../../../src/onscala/codility/leader/EquiLeader.scala) and [Java](../../../src/onjava/codility/leader/EquiLeader.java) source codes present the solution for [this](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) challenge.
 
 The challenge description was not reproduced due to copyrights.
 
