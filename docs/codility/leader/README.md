@@ -4,4 +4,4 @@ This section encompasses [Codility](https://app.codility.com/programmers/) chall
  
 Java and Scala implementations of solutions are included for the following challenges:
 
-* [Binary Gap](equileader.md)
+* [EquiLeader](equileader.md)
