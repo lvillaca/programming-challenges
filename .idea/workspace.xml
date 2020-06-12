@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57968ede-c56b-4f1a-88d0-51ee6b898de5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/codility/leader/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/codility/leader/equileader.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/codility/iterations/binary-gap.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/iterations/binary-gap.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="EquiLeader.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EquiLeader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
+            <state relative-caret-position="1748">
               <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -87,8 +78,20 @@
         <entry file="file://$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="63" />
+              <first_editor relative-caret-position="32">
+                <caret line="2" column="174" selection-start-line="2" selection-start-column="166" selection-end-line="2" selection-end-column="174" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="picking-numbers.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/hackerrank/implementations/picking-numbers.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="189" selection-start-line="9" selection-start-column="189" selection-end-line="9" selection-end-column="189" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-27">
+              <first_editor relative-caret-position="81">
                 <caret line="5" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
@@ -107,20 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StoneWall.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onjava/codility/stacksnqs/StoneWall.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EquiLeader.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EquiLeader.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+            <state relative-caret-position="93">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="e#33#64#0" expanded="true" />
               </folding>
@@ -577,9 +571,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 16h 27m 59s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="EquiLeader_(1) - 2020.06.12 at 16h 29m 00s.xml">
       <configuration name="EquiLeader (1)" configurationId="TestNG" />
     </history-entry>
@@ -607,6 +598,9 @@
     <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 37m 04s.xml">
       <configuration name="EquiLeader (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 46m 47s.xml">
+      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1152" height="697" extended-state="6" />
@@ -618,11 +612,11 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4732297" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4732297" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7029361" weight="0.38" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7029361" visible="true" weight="0.38" />
       <window_info id="Structure" order="1" sideWeight="0.29706392" side_tool="true" weight="0.35454544" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -759,16 +753,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="34">
             <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/hackerrank/implementations/picking-numbers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="189" selection-start-line="9" selection-start-column="189" selection-end-line="9" selection-end-column="189" />
           </first_editor>
           <second_editor />
         </state>
@@ -963,30 +947,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/docs/codility/iterations/binary-gap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="65">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="63" />
+          <first_editor relative-caret-position="32">
+            <caret line="2" column="174" selection-start-line="2" selection-start-column="166" selection-end-line="2" selection-end-column="174" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/iterations/binary-gap.md">
+    <entry file="file://$PROJECT_DIR$/docs/hackerrank/implementations/picking-numbers.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="65">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="189" selection-start-line="9" selection-start-column="189" selection-end-line="9" selection-end-column="189" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
             <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
@@ -1003,32 +1007,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-27">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="33" selection-start-line="81" selection-start-column="33" selection-end-line="81" selection-end-column="33" />
+        <state relative-caret-position="93">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="e#33#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1748">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

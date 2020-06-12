@@ -9,10 +9,10 @@ import scala.util.Try
 
 /**
   * Site: HackerRank
-  * Problem: Cyclic Rotations
+  * Problem: EquiLeader
   *
   * User: Luis Villaca
-  * Date: 24/05/2020
+  * Date: 03/05/2020
   */
 class EquiLeader extends Assertions {
 
