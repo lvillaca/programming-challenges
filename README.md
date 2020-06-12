@@ -2,7 +2,7 @@
 
 This repository includes my approach to programming challenges from several sites, currently focused on Java & Scala solutions.
  
-Implementations are included for the following Sites:
+Implementations for the following Sites were evaluated with total score 100%:
 
 * [Codility](https://app.codility.com/programmers/) - follow [this link](docs/codility/README.md)
 * [HackerRank](https://www.hackerrank.com/dashboard) - follow [this link](docs/hackerrank/README.md)
