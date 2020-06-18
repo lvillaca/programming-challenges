@@ -5,7 +5,7 @@ import org.testng.Assert._
 import org.testng.annotations.{DataProvider, Test}
 
 /**
-  * Site: HackerRank
+  * Site: Codility
   * Problem: Cyclic Rotations
   *
   * User: Luis Villaca

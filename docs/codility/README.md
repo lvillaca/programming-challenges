@@ -9,3 +9,4 @@ Java and Scala implementations of solutions are included for the following Codil
 * [Stacks And Queues](stacksnqs/README.md)
 * [Iterations](iterations/README.md)
 * [Leader](leader/README.md)
+* [Max Slice](maxslice/README.md)

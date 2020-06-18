@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57968ede-c56b-4f1a-88d0-51ee6b898de5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/codility/maxslice/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/codility/maxslice/maxdoubleslicesum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/codility/maxslice/maxslicesum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/codility/maxslice/MaxDoubleSliceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onjava/codility/maxslice/MaxSliceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onscala/codility/maxslice/MaxDoubleSliceSum.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onscala/codility/maxslice/MaxSliceSum.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/codility/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/codility/leader/equileader.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/codility/leader/equileader.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onscala/codility/arrays/CyclicRotations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/onscala/codility/arrays/CyclicRotations.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,48 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="EquiLeader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1748">
-              <caret line="108" selection-start-line="108" selection-end-line="108" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryGap.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onjava/codility/iterations/BinaryGap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-477">
-              <caret line="8" selection-start-line="8" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="binary-gap.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/codility/iterations/binary-gap.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/codility/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="65">
-                <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <first_editor relative-caret-position="187">
+                <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="count-factors.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md">
+      <file leaf-file-name="maxslicesum.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/codility/maxslice/maxslicesum.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <first_editor relative-caret-position="187">
+                <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="32">
+              <first_editor relative-caret-position="34">
                 <caret line="2" column="174" selection-start-line="2" selection-start-column="166" selection-end-line="2" selection-end-column="174" />
               </first_editor>
               <second_editor />
@@ -74,23 +60,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="picking-numbers.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/hackerrank/implementations/picking-numbers.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/codility/arrays/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="9" column="189" selection-start-line="9" selection-start-column="189" selection-end-line="9" selection-end-column="189" />
+              <first_editor relative-caret-position="68">
+                <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stonewall.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md">
+      <file leaf-file-name="binary-gap.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/codility/iterations/binary-gap.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="81">
+              <first_editor relative-caret-position="85">
                 <caret line="5" selection-start-line="5" selection-end-line="5" />
               </first_editor>
               <second_editor />
@@ -98,25 +84,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/codility/iterations/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
+              <first_editor relative-caret-position="119">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EquiLeader.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/codility/leader/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maxdoubleslicesum.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/codility/maxslice/maxdoubleslicesum.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="11" selection-start-column="11" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxSliceSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/onjava/codility/maxslice/MaxSliceSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="361">
+              <caret line="37" column="75" selection-start-line="37" selection-start-column="75" selection-end-line="37" selection-end-column="75" />
               <folding>
-                <element signature="e#33#64#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,8 +136,8 @@
         <entry file="file://$PROJECT_DIR$/docs/codility/leader/equileader.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="68">
-                <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+              <first_editor relative-caret-position="119">
+                <caret line="7" column="84" selection-start-line="7" selection-start-column="84" selection-end-line="7" selection-end-column="84" />
               </first_editor>
               <second_editor />
             </state>
@@ -153,10 +163,13 @@
       <find>no</find>
       <find>)),</find>
       <find>Sys</find>
+      <find>partSumStartingFromIndexX</find>
+      <find>[Int]</find>
     </findStrings>
     <replaceStrings>
       <replace>NO</replace>
       <replace>),</replace>
+      <replace>partMaxSumStartingFromIndexX</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -165,16 +178,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/onjava/hackerrank/README.md" />
-        <option value="$PROJECT_DIR$/src/onscala/hackerrank/README.md" />
-        <option value="$PROJECT_DIR$/src/onjava/codility/arrays/CyclicRotations.java" />
-        <option value="$PROJECT_DIR$/src/onjava/hackerrank/stacks/BalancedBrackets.java" />
-        <option value="$PROJECT_DIR$/src/onjava/codility/arrays/README.md" />
-        <option value="$PROJECT_DIR$/src/onjava/hackerrank/stacks/README.md" />
-        <option value="$PROJECT_DIR$/src/onscala/hackerrank/stacks/README.md" />
-        <option value="$PROJECT_DIR$/src/onscala/hackerrank/implementations/README.md" />
-        <option value="$PROJECT_DIR$/src/onscala/hackerrank/implementations/ExtraLongFactorial.scala" />
-        <option value="$PROJECT_DIR$/src/onscala/hackerrank/implementations/extra-long-factorial.md" />
         <option value="$PROJECT_DIR$/src/onscala/hackerrank/implementations/picking-numbers.md" />
         <option value="$PROJECT_DIR$/src/onjava/codility/primencomposite/README.md" />
         <option value="$PROJECT_DIR$/src/onscala/codility/primencomposite/README.md" />
@@ -206,20 +209,30 @@
         <option value="$PROJECT_DIR$/src/onscala/codility/iterations/Iterations.scala" />
         <option value="$PROJECT_DIR$/src/onscala/codility/iterations/BinaryGap.scala" />
         <option value="$PROJECT_DIR$/src/onjava/codility/iterations/BinaryGap.java" />
-        <option value="$PROJECT_DIR$/docs/codility/README.md" />
-        <option value="$PROJECT_DIR$/docs/codility/leader/README.md" />
         <option value="$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java" />
         <option value="$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md" />
         <option value="$PROJECT_DIR$/docs/codility/iterations/binary-gap.md" />
-        <option value="$PROJECT_DIR$/docs/codility/leader/equileader.md" />
         <option value="$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md" />
         <option value="$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md" />
         <option value="$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docs/codility/leader/README.md" />
+        <option value="$PROJECT_DIR$/src/onjava/codility/maxslice/scriptFile.scala" />
+        <option value="$PROJECT_DIR$/src/onscala/codility/maxslice/MaxSlice.scala" />
+        <option value="$PROJECT_DIR$/src/onscala/codility/maxslice/MaxSliceSum.scala" />
+        <option value="$PROJECT_DIR$/src/onjava/codility/maxslice/MaxSliceSum.java" />
+        <option value="$PROJECT_DIR$/docs/codility/README.md" />
+        <option value="$PROJECT_DIR$/docs/codility/leader/equileader.md" />
+        <option value="$PROJECT_DIR$/src/onscala/codility/arrays/CyclicRotations.scala" />
+        <option value="$PROJECT_DIR$/docs/codility/maxslice/README.md" />
+        <option value="$PROJECT_DIR$/src/onscala/codility/maxslice/MaxDoubleSliceSum.scala" />
+        <option value="$PROJECT_DIR$/src/onjava/codility/maxslice/MaxDoubleSliceSum.java" />
+        <option value="$PROJECT_DIR$/docs/codility/maxslice/maxdoubleslicesum.md" />
+        <option value="$PROJECT_DIR$/docs/codility/maxslice/maxslicesum.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1152" />
     <option name="height" value="697" />
@@ -230,6 +243,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,14 +255,57 @@
             <path>
               <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
               <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="onjava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="onjava" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="onscala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="onscala" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scala_challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scala_challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="onscala" type="462c0819:PsiDirectoryNode" />
+              <item name="codility" type="462c0819:PsiDirectoryNode" />
+              <item name="maxslice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,18 +343,18 @@
       <recent name="Scala" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="onscala.codility.maxslice" />
       <recent name="onscala.codility.leader" />
       <recent name="onscala.codility.iterations" />
       <recent name="onscala.codility.stacksnqs" />
       <recent name="onscala.codility.primencomposite" />
-      <recent name="onjava.hackerrank.stacks" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/codility/maxslice" />
+      <recent name="$PROJECT_DIR$/src/onjava/codility/maxslice" />
       <recent name="$PROJECT_DIR$/docs/codility/leader" />
       <recent name="$PROJECT_DIR$/docs/codility/iterations" />
       <recent name="$PROJECT_DIR$/docs" />
-      <recent name="$PROJECT_DIR$/src/onscala/codility/stacksnqs" />
-      <recent name="$PROJECT_DIR$/src/onscala/codility/primencomposite" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -311,7 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.EquiLeader (1)">
+  <component name="RunManager" selected="TestNG.MaxDoubleSliceSum (1)">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -330,64 +388,6 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="BinaryGap (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="scala_challenges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="onscala.codility.iterations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="onscala.codility.iterations" />
-      <option name="MAIN_CLASS_NAME" value="onscala.codility.iterations.BinaryGap" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="BinaryGap" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="scala_challenges" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="onjava.codility.iterations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="onjava.codility.iterations" />
-      <option name="MAIN_CLASS_NAME" value="onjava.codility.iterations.BinaryGap" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
     </configuration>
     <configuration name="EquiLeader (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="scala_challenges" />
@@ -418,19 +418,19 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="EquiLeader" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxDoubleSliceSum (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="scala_challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="onjava.codility.leader.*" />
+          <option name="PATTERN" value="onscala.codility.maxslice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="onjava.codility.leader" />
-      <option name="MAIN_CLASS_NAME" value="onjava.codility.leader.EquiLeader" />
+      <option name="PACKAGE_NAME" value="onscala.codility.maxslice" />
+      <option name="MAIN_CLASS_NAME" value="onscala.codility.maxslice.MaxDoubleSliceSum" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -447,19 +447,77 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="StoneWall (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxDoubleSliceSum" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="scala_challenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="onjava.codility.stacksnqs.*" />
+          <option name="PATTERN" value="onjava.codility.maxslice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="onjava.codility.stacksnqs" />
-      <option name="MAIN_CLASS_NAME" value="onjava.codility.stacksnqs.StoneWall" />
+      <option name="PACKAGE_NAME" value="onjava.codility.maxslice" />
+      <option name="MAIN_CLASS_NAME" value="onjava.codility.maxslice.MaxDoubleSliceSum" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="MaxSliceSum (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="scala_challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onscala.codility.maxslice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="onscala.codility.maxslice" />
+      <option name="MAIN_CLASS_NAME" value="onscala.codility.maxslice.MaxSliceSum" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="MaxSliceSum" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="scala_challenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onjava.codility.maxslice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="onjava.codility.maxslice" />
+      <option name="MAIN_CLASS_NAME" value="onjava.codility.maxslice.MaxSliceSum" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -499,19 +557,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.StoneWall (1)" />
-      <item itemvalue="TestNG.BinaryGap" />
-      <item itemvalue="TestNG.BinaryGap (1)" />
-      <item itemvalue="TestNG.EquiLeader" />
       <item itemvalue="TestNG.EquiLeader (1)" />
+      <item itemvalue="TestNG.MaxSliceSum" />
+      <item itemvalue="TestNG.MaxSliceSum (1)" />
+      <item itemvalue="TestNG.MaxDoubleSliceSum" />
+      <item itemvalue="TestNG.MaxDoubleSliceSum (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MaxDoubleSliceSum (1)" />
+        <item itemvalue="TestNG.MaxDoubleSliceSum" />
+        <item itemvalue="TestNG.MaxSliceSum (1)" />
+        <item itemvalue="TestNG.MaxSliceSum" />
         <item itemvalue="TestNG.EquiLeader (1)" />
-        <item itemvalue="TestNG.EquiLeader" />
-        <item itemvalue="TestNG.BinaryGap" />
-        <item itemvalue="TestNG.BinaryGap (1)" />
-        <item itemvalue="TestNG.StoneWall (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -529,56 +587,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 16h 29m 00s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum - 2020.06.18 at 15h 48m 55s.xml">
+      <configuration name="MaxDoubleSliceSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 18m 10s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum - 2020.06.18 at 16h 05m 28s.xml">
+      <configuration name="MaxDoubleSliceSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 25m 22s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum - 2020.06.18 at 16h 05m 41s.xml">
+      <configuration name="MaxDoubleSliceSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 27m 00s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum - 2020.06.18 at 16h 06m 09s.xml">
+      <configuration name="MaxDoubleSliceSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 28m 37s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum - 2020.06.18 at 16h 09m 33s.xml">
+      <configuration name="MaxDoubleSliceSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 29m 46s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum - 2020.06.18 at 16h 35m 44s.xml">
+      <configuration name="MaxDoubleSliceSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 33m 02s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum - 2020.06.18 at 16h 36m 14s.xml">
+      <configuration name="MaxDoubleSliceSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 36m 43s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum - 2020.06.18 at 16h 36m 32s.xml">
+      <configuration name="MaxDoubleSliceSum" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 37m 04s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum_(1) - 2020.06.18 at 16h 48m 42s.xml">
+      <configuration name="MaxDoubleSliceSum (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EquiLeader_(1) - 2020.06.12 at 17h 46m 47s.xml">
-      <configuration name="EquiLeader (1)" configurationId="TestNG" />
+    <history-entry file="MaxDoubleSliceSum_(1) - 2020.06.18 at 16h 52m 44s.xml">
+      <configuration name="MaxDoubleSliceSum (1)" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1152" height="697" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32800853" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32692307" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4732297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4715026" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7029361" visible="true" weight="0.38" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7029361" visible="true" weight="0.2390909" />
       <window_info id="Structure" order="1" sideWeight="0.29706392" side_tool="true" weight="0.35454544" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39896372" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3974359" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,30 +644,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298791" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4732297" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7029361" visible="true" weight="0.38" />
-      <window_info id="Structure" order="1" sideWeight="0.29706392" side_tool="true" weight="0.35454544" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298791" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39896372" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32800853" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -624,88 +657,23 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/onjava/codility/maxslice/MaxSliceSum.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onscala/codility/package.scala" />
-    <entry file="file://$PROJECT_DIR$/src/onscala/hackerrank/implementations/ExtraLongFactorial.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onscala/hackerrank/implementations/PickingNumbers.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/math/package.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="231" column="6" selection-start-line="231" selection-start-column="6" selection-end-line="231" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.4-sources.jar!/scala/runtime/RichDouble.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onjava/hackerrank/stacks/BalancedBrackets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/arrays/cyclic-rotations.md" />
-    <entry file="file://$PROJECT_DIR$/src/onjava/hackerrank/stacks/balanced-brackets.md" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/primencomposite/count-factors.md" />
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/stacksnqs/scriptFile.scala" />
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/stacksnqs/README.md" />
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/primencomposite/README.md" />
     <entry file="file://$PROJECT_DIR$/src/onjava/codility/stacksnqs/stonewall.md" />
     <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/layout.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/onscala/codility/README.md" />
     <entry file="file://$PROJECT_DIR$/src/onjava/codility/README.md" />
-    <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/hackerrank/implementations/extra-long-factorial.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -766,28 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/arrays/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onscala/codility/arrays/CyclicRotations.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/onscala/codility/primencomposite/CountFactors.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -827,37 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
-          <folding>
-            <element signature="e#8628#8629#0" expanded="true" />
-            <element signature="e#8680#8681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/leader/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="160" selection-start-line="2" selection-start-column="160" selection-end-line="2" selection-end-column="160" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/arrays/CyclicRotations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -875,16 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/iterations/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/onjava/codility/iterations/BinaryGap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-477">
@@ -892,26 +797,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/iterations/binary-gap.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="65">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="32">
-            <caret line="2" column="174" selection-start-line="2" selection-start-column="166" selection-end-line="2" selection-end-column="174" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -928,7 +813,7 @@
     <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/stonewall.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="81">
+          <first_editor relative-caret-position="85">
             <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
@@ -938,8 +823,198 @@
     <entry file="file://$PROJECT_DIR$/docs/codility/primencomposite/count-factors.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
+          <first_editor relative-caret-position="85">
             <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onjava/codility/maxslice/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/docs/codility/stacksnqs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/org/testng/internal/MethodRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/org/testng/internal/TestInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/org/testng/SuiteRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="236" selection-start-line="236" selection-end-line="236" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/testng-7.1.0.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="917" selection-start-line="917" selection-end-line="917" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onscala/codility/arrays/CyclicRotations.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onjava/codility/arrays/CyclicRotations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/maxslice/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="39" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onjava/codility/maxslice/MaxDoubleSliceSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onscala/codility/maxslice/MaxDoubleSliceSum.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/onscala/codility/maxslice/MaxSliceSum.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="38" selection-end-column="70" />
+          <folding>
+            <element signature="e#35#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/arrays/cyclic-rotations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="174" selection-start-line="2" selection-start-column="166" selection-end-line="2" selection-end-column="174" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/arrays/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/iterations/binary-gap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/iterations/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
@@ -948,38 +1023,58 @@
     <entry file="file://$PROJECT_DIR$/docs/codility/leader/equileader.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="84" selection-start-line="7" selection-start-column="84" selection-end-line="7" selection-end-column="84" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/onscala/codility/leader/EquiLeader.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#33#64#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/docs/codility/leader/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/onjava/codility/leader/EquiLeader.java">
+    <entry file="file://$PROJECT_DIR$/src/onjava/codility/maxslice/MaxSliceSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1748">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        <state relative-caret-position="361">
+          <caret line="37" column="75" selection-start-line="37" selection-start-column="75" selection-end-line="37" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/docs/codility/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="7" column="133" selection-start-line="7" selection-start-column="133" selection-end-line="7" selection-end-column="133" />
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/maxslice/maxdoubleslicesum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="11" selection-start-column="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/codility/maxslice/maxslicesum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>

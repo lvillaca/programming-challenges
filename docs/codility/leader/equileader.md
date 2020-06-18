@@ -1,4 +1,4 @@
-# Binary Gap: Arrays
+# Equi Leader
 
 The [Scala](../../../src/onscala/codility/leader/EquiLeader.scala) and [Java](../../../src/onjava/codility/leader/EquiLeader.java) source codes present the solution for [this](https://app.codility.com/programmers/lessons/8-leader/equi_leader/) challenge.
 
