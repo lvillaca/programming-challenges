@@ -5,3 +5,4 @@ This section encompasses [Codility](https://app.codility.com/programmers/) chall
 Java and Scala implementations of solutions are included for the following challenges:
 
 * [Count Factors](count-factors.md)
+* [MinPerimeterRectangle](minperimeterrectangle.md)

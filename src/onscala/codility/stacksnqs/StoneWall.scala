@@ -6,7 +6,7 @@ import org.testng.annotations.{DataProvider, Test}
 
 /**
   * Site: HackerRank
-  * Problem: Cyclic Rotations
+  * Problem: Stone Wall
   *
   * User: Luis Villaca
   * Date: 24/05/2020

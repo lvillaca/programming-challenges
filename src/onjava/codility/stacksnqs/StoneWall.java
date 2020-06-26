@@ -9,7 +9,7 @@ import java.util.Stack;
 
 /**
  * Site: HackerRank
- * Problem: Cyclic Rotations
+ * Problem: Stone Wall
  *
  * User: Luis Villaca
  * Date: 24/03/2020

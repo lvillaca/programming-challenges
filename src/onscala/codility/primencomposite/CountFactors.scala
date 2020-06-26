@@ -17,7 +17,7 @@ class CountFactors extends Assertions {
     val sqrtOfN = math.sqrt(n)
     // count all factors twice, 1 below square root and one above it
     val count: Int = (1 to sqrtOfN.toInt).filter(n % _ == 0).map( _ => 2).sum
-    if (sqrtOfN.isValidInt) count - 1 // has an exact square root
+    if (sqrtOfN.isValidInt) count - 1 // remove if it has an integer square root
     else count
   }
 
