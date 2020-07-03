@@ -5,7 +5,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 /**
- * Site: HackerRank
+ * Site: Codility
  * Problem: MaxSliceSum
  *
  * User: Luis Villaca

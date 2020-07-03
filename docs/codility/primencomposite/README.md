@@ -6,3 +6,4 @@ Java and Scala implementations of solutions are included for the following chall
 
 * [Count Factors](count-factors.md)
 * [MinPerimeterRectangle](minperimeterrectangle.md)
+* [Peaks](peaks.md)

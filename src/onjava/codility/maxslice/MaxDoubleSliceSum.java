@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 import static java.lang.Math.max;
 
 /**
- * Site: HackerRank
+ * Site: Codility
  * Problem: MaxDoubleSliceSum
  *
  * User: Luis Villaca
