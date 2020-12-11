@@ -4,8 +4,8 @@ This repository includes my approach to programming challenges from several site
  
 Implementations for the following Sites were evaluated with total score 100%:
 
-* [Codility](https://app.codility.com/programmers/) - follow [this link](docs/codility/README.md) for sections and implementations
-* [HackerRank](https://www.hackerrank.com/dashboard) - follow [this link](docs/hackerrank/README.md) for sections and implementations
+* Codility - click [here](docs/codility/README.md) for sections and implementations
+* HackerRank - click [here](docs/hackerrank/README.md) for sections and implementations
 
 The following libraries were used for the execution and unit test of the provided solutions
 
